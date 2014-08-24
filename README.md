@@ -1,7 +1,7 @@
 Run 4 Your Bits!
 ================
 
-In run 4 Your Bits! you will control several old school videogame characters throughout four different levels. In order to get points you need to run forward while jumping and dodging obstacles.
+In Run 4 Your Bits! you will control several old school videogame characters throughout four different levels. In order to get points you need to run forward while jumping and dodging obstacles.
 
 ![Level](http://img4.wikia.nocookie.net/__cb20120412200535/run4yourbits/images/6/69/Level_1.png)
 
